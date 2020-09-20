@@ -1,0 +1,11 @@
+Test 1: just a simple simulation with 200-ish events
+
+Test 2: lets see how fast we can serve orders of test 1 BUT NOW WITH MORE VROOM VROOM
+
+Test 3: Its test 1 but SURPRISE SURPRISE, so many cancelling and promoting events are happening
+
+Test 4: Wait wut? ALL THE ORDERS ARE NORMAL...WHY ARE THEY TURNING VIP? (Auto-promotion stress test)
+
+Test 5: Can the simulation handle 834 orders? lets find out
+
+Test 6: BUT WAIT THERE'S MORE, Can it handle all the orders coming..IN THE SAME TIME STEP?
